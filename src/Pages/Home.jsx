@@ -35,4 +35,3 @@ function Home() {
 }
 
 export default Home;
-// ############## 140 minits ##############
